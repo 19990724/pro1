@@ -1,0 +1,174 @@
+h4{color:white;text-align: center;-webkit-animation: move 3s linear;
+    -o-animation: move 3s linear;
+    animation: move 3s linear;}
+@keyframes move {
+    0%{transform:translateX(4rem);opacity: 1;}
+    100%{transform:translate(0rem);}
+}
+/*为音乐图标添加样式*/
+.music_ani{
+    animation: music_ani_k 3s linear infinite;
+}
+@keyframes music_ani_k{
+    0%{}
+    100%{transform:rotateZ(360deg);}
+}
+/*大家好*/
+h5{text-align: center;color:green;padding-top:40px;padding-left:50px;
+    -webkit-animation: move_1 3s linear;
+    -o-animation: move_1 3s linear;
+    animation: move_1 3s linear;opacity: 0;animation-fill-mode: both;}
+@keyframes move_1 {
+    0%{transform: scale(4);opacity: 0;}
+    100%{transform: scale(1);opacity: 1;}
+}
+/*姓名*/
+.xing{font:0.7rem "宋体 bold";color:yellow;position: absolute;left:50%;margin-left:-0.8rem;top:4rem; -webkit-animation: move_2 4s 2s linear;
+    -o-animation: move_2 4s 2s linear;
+    animation: move_2 4s 2s linear;opacity: 0;animation-fill-mode: both;}
+@keyframes move_2 {
+    0%{transform: rotate(0deg);opacity: 0;}
+    100%{transform: rotate(360deg);opacity: 1;}
+}
+.lai{font:0.6rem "宋体";color:purple;position: absolute;left:40%;margin-left:-0.55rem;top:7.5rem; -webkit-animation: move_03 5s 5s linear;
+    -o-animation: move_03 4s 4s linear;
+    animation: move_03 4s 4s linear;opacity: 0;animation-fill-mode: both;}
+.lai_2{font:0.6rem "宋体";color:yellow;position: absolute;left:20%;margin-left:-0.5rem;top:9rem; -webkit-animation: move_03 5s 5s linear;
+    -o-animation: move_03 5s 5s linear;
+    animation: move_03 5s 5s linear;opacity: 0;animation-fill-mode: both;}
+@keyframes move_03 {
+    0%{transform: translateX(6rem);opacity: 0;}
+    100%{transform: translateX(0);opacity: 1;}
+}
+.sr{font:0.6rem "宋体";color:red;position: absolute;left:30%;margin-left:-0.6rem;top:6rem; -webkit-animation: move_4 6s 3s linear;
+    -o-animation: move_4 6s 3s linear;
+    animation: move_4 6s 3s linear;opacity: 0;animation-fill-mode: both;}
+@keyframes move_4 {
+    0%{transform: translateX(-5rem);opacity: 0;}
+    100%{transform: translateX(0);opacity: 1;}
+}
+
+h4{color:yellow;padding-top:80px;padding-left:30px;-webkit-animation: move_5 2s linear;
+    -o-animation: move_5 2s linear;
+    animation: move_5 2s linear;opacity: 0;animation-fill-mode: both;}
+@keyframes move_5 {
+    0%{transform: translateY(-7rem);opacity: 0;}
+    100%{transform: translateY(0);opacity: 1;}
+}
+.ai{font:0.5rem "宋体";color:red;margin-top:10px;padding-left:10px; -webkit-animation: move_4 4s 2s linear;
+    -o-animation: move_4 4s 2s linear;
+    animation: move_4 4s 2s linear;opacity: 0;animation-fill-mode: both;}
+@keyframes move_4 {
+    0%{transform: translateX(-8rem);opacity: 0;}
+    100%{transform: translateX(0);opacity: 1;}}
+/*第二页图片*/
+.img_a,.img_b,.img_c{width:6.4rem;height:3.22rem;position: absolute;left:50%;margin-left:-3.2rem;top:0.26rem;
+    -webkit-animation: move 3s linear;
+    -o-animation: move 3s linear;
+    animation: move 3s linear;}
+.img_a,.img_b{padding-left:0.14rem;float:left;width:2.95rem;height:2.48rem;position: absolute;left:50%;margin-left:-3.2rem;top:3.84rem;}
+.img_c{padding-left:0.14rem;float:left;width:3.95rem;height:2.48rem;position: absolute;left:20%;margin-left:-2.2rem;top:3.54rem;}
+@keyframes move_9 {
+    0%{transform:rotate(0deg)}
+    20%{transform:rotate(-90deg)}
+    50%{transform:rotate(-180deg)}
+    70%{transform:rotate(-270deg)}
+    100%{transform:rotate(-360deg)}
+}
+.img_a,{top:3.84rem;margin-left:0.001rem;padding-right:0.14rem;
+    -webkit-animation: move_9 1s linear;
+    -o-animation: move_9 1s linear;
+    animation: move_9 1s linear;}
+.img_b{top:3.84rem;margin-left:0.001rem;padding-right:0.14rem;
+    -webkit-animation: move_9 1s linear;
+    -o-animation: move_9 1s linear;
+    animation: move_9 1s linear;}
+.img_c{top:7.4rem;margin-left:0.001rem;padding-right:0.24rem;
+    -webkit-animation: move_9 1s linear;
+    -o-animation: move_9 1s linear;
+    animation: move_9 1s linear;}
+/*第三页图片*/
+.img_d{width:3.4rem;height:3.22rem;position: absolute;left:50%;margin-left:-3.2rem;top:0.26rem;
+    -webkit-animation: move 3s linear;
+    -o-animation: move 3s linear;
+    animation: move 3s linear;}
+.img_d,.img_e{padding-left:0.14rem;float:left;width:2.95rem;height:2.48rem;position: absolute;left:50%;margin-left:-3.2rem;top:3.84rem;}
+.img_f{padding-left:0.14rem;float:left;width:3.95rem;height:2.48rem;position: absolute;left:20%;margin-left:-2.2rem;top:3.54rem;}
+@keyframes move_7 {
+    0%{transform:translateY(4rem)}
+    100%{transform:translateY(0rem))}
+}
+.img_d,{top:3.84rem;margin-left:0.001rem;padding-right:0.14rem;
+    -webkit-animation: move_7 2s linear;
+    -o-animation: move_7 1s linear;
+    animation: move_7 1s linear;}
+.img_e{top:3.84rem;margin-left:0.001rem;padding-right:0.14rem;
+    -webkit-animation: move_7 2s linear;
+    -o-animation: move_7 2s linear;
+    animation: move_7 2s linear;}
+.img_f{top:7.4rem;margin-left:0.001rem;padding-right:0.24rem;
+    -webkit-animation: move_8 2s linear;
+    -o-animation: move_8 2s linear;
+    animation: move_8 2s linear;}
+@keyframes move_8 {
+    0%{transform:translateX(3rem)}
+    100%{transform:translateX(0rem)}
+}
+.zp{font:0.5rem "宋体";color:#612801;margin-top:50px;padding-left:30px; -webkit-animation: move_4 4s 2s linear;
+    -o-animation:move_4 4s 2s linear;
+    animation: move_4 4s 2s linear;opacity: 0;animation-fill-mode: both;}
+@keyframes move_4 {
+    0%{transform: translateX(-7rem);opacity: 0;}
+    100%{transform: translateX(0);opacity: 1;}
+}
+.ming{font:0.5rem "宋体";color:#612801;margin-top:50px;padding-left:30px; -webkit-animation: move_4 7s 2s linear;
+    -o-animation: move_4 7s 2s linear;
+    animation: move_4 7s 2s linear;opacity: 0;animation-fill-mode: both;}
+@keyframes move_4 {
+    0%{transform: translateY(-7rem);opacity: 0;}
+    100%{transform: translateY(0);opacity: 1;}
+}
+h3{font:0.8rem "宋体";text-align: center;padding-top: 40px;}
+.ping{width:5.5rem;color:green;margin:0 auto;padding-top:80px;font:0.4rem "宋体";-webkit-animation: move 3s linear;
+    -o-animation: move 2s linear;
+    animation: move 2s linear;}
+@keyframes move {
+    0%{opacity: 0;}
+    20%{opacity: 0.4;}
+    50%{opacity: 0.5;}
+    75%{opacity: 0.8;}
+    100%{opacity: 1;}
+}
+.xiexie{width:260px;height:260px;-webkit-animation: move_A 3s linear;
+    -o-animation: move_A 3s linear;
+    animation: move_A 3s linear;}
+.xie{font:0.8rem "宋体";color:red;margin:0 auto;padding-top:20px;-webkit-animation: move_A 3s linear;
+    -o-animation: move_A 3s linear;
+    animation: move_A 3s linear;}
+@keyframes move_A {
+0%{transform: rotate(0deg);opacity: 0;}
+100%{transform: rotate(360deg);opacity: 1.5;}
+}
+.tel{font:0.5rem "宋体";color:yellow;margin-top:20px;padding-left:30px; -webkit-animation: move_4 7s 2s linear;
+    -o-animation: move_4 4s 2s linear;
+    animation: move_4 4s 2s linear;opacity: 0;animation-fill-mode: both;}
+@keyframes move_4 {
+    0%{transform: translateX(-7rem);opacity: 0;}
+    100%{transform: translateX(0);opacity: 1;}}
+.lianxi{font:0.6rem "宋体";margin-top:-360px;color:black;text-align: center;-webkit-animation: move 3s linear;
+    -o-animation: move 3s linear;
+    animation: move 3s linear;}
+@keyframes move {
+    0%{transform:translateX(4rem);opacity: 1;}
+    100%{transform:translate(0rem);}
+}
+.erweima{width:3.5rem;margin-top:20px;padding-left:80px; -webkit-animation: move_4 4s 2s linear;
+    -o-animation: move_4 4s 2s linear;
+    animation: move_4 4s 2s linear;opacity: 0;animation-fill-mode: both;}
+
+.xxx{font:1rem "宋体";color:white;margin-top:10px;padding-left:50px; -webkit-animation: move_X 2s 2s linear;
+    -o-animation: move_X 2s 2s linear;
+    animation: move_X 2s 2s linear;opacity: 0;animation-fill-mode: both;}
+@keyframes move_X {
+    0%{transform: translateY(-8rem);opacity: 0;}
+    100%{transform: translateY(0);opacity: 1;}}

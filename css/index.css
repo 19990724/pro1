@@ -1,0 +1,25 @@
+/*∏ˆ»À*/
+*{padding:0;margin:0;}
+html,body{width:100%;height:100%;}
+.da{width:100%;height:100%;position: relative; overflow:hidden;}
+.da>div:nth-child(1){width:100%;height:100%;background:url(../images/aaaag.jpg);background-size:380px 700px;position:absolute;top:0;left:0;}
+.da>div:nth-child(2){width:100%;height:100%;background:url(../images/aaa.jpg);background-size:380px 670px;position:absolute;top:0;left:0;}
+.da>div:nth-child(3){width:100%;height:100%;background:url(../images/bgC.jpg);background-size:360px 550px;position:absolute;top:0;left:0;}
+.da>div:nth-child(4){width:100%;height:100%;background:url(../images/beijingtuAAAA.gif);background-size:480px 670px;position:absolute;top:0;left:0;}
+.da>div:nth-child(5){width:100%;height:100%;background:url(../images/beijingzuihou.gif);background-size:380px 670px;position:absolute;top:0;left:0;}
+.transtion_my{width:100%;height:100%;transition: transform 0.5s linear;}
+.up{transform:translateY(-100%);}
+.down{transform:translateY(100%);}
+/*.left{transform:translateX(-100%);}*/
+/*.right{transform:translateX(100%);}*/
+.yin{display: none;}
+.xian{display: block;}
+.h2{padding-top:200px;}
+h4{padding-top:50px;}
+.da>div>div{
+    position:absolute;
+    top: 0;
+    left: 0;
+}
+/*“Ù¿÷Õº±Í*/
+.da .music{width:0.55rem;height:0.55rem;position:fixed;top:0.2rem;right:0.2rem;z-index:2;}

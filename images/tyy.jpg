@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie6 domain_so"><![endif]-->
+<!--[if IE 7 ]><html class="ie7 domain_so"><![endif]-->
+<!--[if IE 8 ]><html class="ie8 domain_so"><![endif]-->
+<!--[if IE 9 ]><html class="ie9 domain_so"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html class="w3c domain_so"><!--<![endif]--><head>
+<meta charset="UTF-8">
+<link rel="dns-prefetch" href="//p0.so.qhmsg.com" />
+<link rel="dns-prefetch" href="//p1.so.qhmsg.com" />
+<link rel="dns-prefetch" href="//p2.so.qhmsg.com" />
+<link rel="dns-prefetch" href="//p3.so.qhmsg.com" />
+<link rel="dns-prefetch" href="//p4.so.qhmsg.com" />
+<title>听音乐图片的 搜索结果_360图片</title>
+<link type="image/x-icon" rel="shortcut icon" href="/faviconso.ico"/><link rel="stylesheet" href="http://s8.qhres.com/static/2b0e24b953453d60/search/view.css">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="renderer" content="webkit">
+<script>window.__domainHost__ = "so";
+	window.__domainFullhost__ = "so.com";
+	window.__domainName__ = "360";
+	window.__domainFullname__ = "360搜索";</script><script type="text/javascript">window.__t__ = (+new Date);</script>
+</head>
+<body><!-- lightbox -->
+
+
+<div id="jcopeLightBox" class="jcope_lightbox testB">
+
+<div class="lb_wrapper">
+<a class="lb_close" href="#closelightbox"></a>
+<a class="lb_exitfullscreen" href="#" title="退出全屏模式"></a>
+
+<div class="lb_head">
+<div class="searchwrap">
+<div class="inner clearfix">
+<div class="m-form-logo">
+<a target="_self" href="/">360图片</a>
+</div>
+<div class="search-form">
+<form method="get" action="/i">
+<div class="qw clearfix">
+<input type="text" id="search_kw" name="q" value="听音乐图片" autocomplete="off">
+</div>
+<input type="hidden" value="srp" name="src">
+<input type="submit" class="search_btn" value="搜一下">
+</form>
+<s id="iconSt" class="icon_st" data-title="按图片搜索"></s>
+
+<div class="hs_btn hs_arrow_down" id="hsBtn" style="display: block;"></div>
+
+</div>
+    
+						    <div class="top-ads" id="top-ads"></div> 
+							
+						</div>
+</div>
+</div>
+
+<div class="lb_body" data-cmsid="a395ccd1d331cf0829e697d1379135e6">
+<div class="lb_imgbox">
+<div class="size_attachImg_bg"></div>
+<div class="size_attachImg_txt">adf</div>
+<div class="lb_navigator">
+<a href="#" class="lb_navclose"></a>
+<div class="lb_navbox">
+<div class="lb_navmask">
+<div></div>
+</div>
+</div>
+</div>
+<a href="#" class="lb_play" id="lbPlay"></a>
+</div>
+<a href="#" class="lb_toggle lb_prev" id="lbPrev"><span>上一张</span></a>
+<a href="#" class="lb_toggle lb_next" id="lbNext"><span>下一张</span></a>
+<div class="lb_loading"></div>
+
+</div>
+
+<div class="lb_toolbar" id="lbToolbar">
+
+<ul class="lb_toolbarlist" id="lbToolbarList"><!--隐藏缩略图-->
+
+
+<li class="bn">
+<a href="#" class="lb_toolbarbtn lb_thumb_toggle lb_thumb_toggle_up" id="lbThumbToggle"><i class="sep"></i><span class="inn"><b class="ico"></b>显示缩略图</span><i class="sep"></i></a>
+</li>
+
+<li style="display: none;">
+<span class="lb_pageation"><b class="lb_page_current">1</b>/<span class="lb_page_total">1</span></span>
+</li><!--下载按钮-->
+
+<li class="item_download bn">
+<a href="#" class="lb_toolbarbtn lb_download" target="_blank" id="lbDownload"><i class="sep"></i><span class="inn"><b class="ico"></b>下载</span><i class="sep"></i></a>
+<ul class="sub_list download_list" id="downloadList"></ul>
+</li><!--收藏按钮-->
+
+<li class="bn favorite" id="favorite">
+<a href="javascript:;" class="lb_toolbarbtn lb_favorite" id="lbFavorite"><i class="sep"></i><span class="inn"><b class="ico"></b>收藏</span><i class="sep"></i></a>
+<div class="fav-tip j-fav-tip">
+<span title="关闭" class="close-btn j-close">&times;</span><span>爱图已飞进</span><a href="/u" target="_blank" class="my-favorite">我的图片</a><span>了哦</span>
+</div>
+<div class="fav-panel j-fav-panel">
+        <div class="fav-form">
+        <div class="list-row">
+            <div class="label">
+                <label>分组</label>
+            </div>
+            <div class="album-list">
+                <select class="j-slt-options" style="display: none;">
+                </select>
+                <div class="dropdown-box">
+                    <div class="dropdown-select j-dd-select">
+                        <span class="dropdown-input"><nobr>默认分组</nobr></span>
+                        <span class="dropdown-icon"></span>
+                    </div>
+                    <div class="dropdown-list j-dd-list">
+                        <dl class="dropdown-options j-dd-options">
+                        </dl>
+
+                            <div class="createalbum">
+                                    <input type="text" class="album-name j-album-name" name="newalbum" title="创建新相册">
+                                    <button class="create-btn j-create-album">创建</button>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="descript-row">
+            <div class="label">
+                <label>描述</label>
+            </div><textarea class="desc-input j-desc-input"></textarea>
+        </div>
+        <div class="fav-btn-box">
+        	<button class="fav-btn fav-cancel j-cancel">取消</button>
+        	<button class="fav-btn fav-confirm j-add-photo">保存</button>
+        </div>
+    </div>
+    </div>
+</li><!--分享按钮-->
+
+<li class="item_share bn" id="itemShare">
+<a href="javascript:;" class="lb_toolbarbtn lb_share"><i class="sep"></i><span class="inn"><b class="ico"></b>分享</span><i class="sep"></i></a>
+<ul class="sub_list share_list" id="shareList">
+<li><a target="_blank" href="#" class="weibo" title="分享到 新浪微博">新浪微博</a></li>
+<li><a target="_blank" href="#" class="tweibo" title="分享到 腾讯微博">腾讯微博</a></li>
+<li><a target="_blank" href="#" class="qzone" title="分享到 QQ空间">QQ空间</a></li>
+<li><a target="_blank" href="#" class="renren" title="分享到 人人网">人人网</a></li>
+<li><a target="_blank" href="#" class="douban" title="分享到 豆瓣网">豆瓣网</a></li>
+</ul>
+</li><!--发送到手机-->
+
+<li class="item_mdownload bn" id="itemMdownload">
+<a href="#" class="lb_toolbarbtn lb_mdownload" id="lbMdownload"><i class="sep"></i><span class="inn"><b class="ico"></b>发送到手机</span><i class="sep"></i></a>
+</li><!--全屏按钮-->
+
+<li class="bn fullScreen">
+<a href="#" class="lb_toolbarbtn lb_fullscreen" id="lbFullscreen"><i class="sep"></i><span class="inn"><b class="ico"></b>全屏</span><i class="sep"></i></a>
+</li><!--缩放-->
+
+            <li class="scale"><span class="scale_zoom scale_zoomIn"></span><input type="text" value="100%" class="scale_text"><span class="scale_zoom scale_zoomOut"></span></li>
+
+<li class="bn">
+<a href="#" class="lb_toolbarbtn lb_report" id="report" target="_blank"><i class="sep"></i><span class="inn"><b class="ico"></b>问题反馈</span><i class="sep"></i></a>
+</li>
+
+<li class="bn" style="display: none;">
+<a href="#" class="lb_toolbarbtn lb_zoom lb_zoomin lb_zoom_disable" id="lbZoom"><i class="sep"></i><span class="inn"><b class="ico"></b>原始尺寸</span><i class="sep"></i></a>
+</li>
+</ul>
+</div>
+
+<div class="lb_footer" id="lbFooter"></div>
+</div>
+<div class="lb_sidebar" id="lbSidebar">
+<div class="lb-sidebar-head">
+    		<div class="user lightbox" id="user-info">
+                <div class="login-none" id="J-not-login" style="display: none;">
+                    <div class="user-item">
+<a href="javascript:;" id="J-user-login" class="user-login">登录</a>
+</div>
+<div class="user-item">
+<span class="sep">|</span>
+<a href="javascript:;" id="J-user-reg" class="user-reg">注册</a>
+</div>
+                </div>      
+		                <div class="login" id="J-has-login" style="display: none;">
+                    <div class="user-item">
+                        <a href="/u" id="J-user-names" class="user-logined" target="_blank">我的图片</a>
+                    </div>
+                </div>
+            </div>
+    	</div>
+    	<a class="lb_sidebar_toggle lb_sidebar_toggle_right" href="javascript:;" id="lbSidebarToggle_"><span></span></a>
+<div class="con">
+<div class="picMsg"><!--<h3>图片信息</h3>-->
+
+<h3 class="lb_title" id="lbTitle"><span class="lb_pageation"><b class="lb_page_current">1</b>/<span class="lb_page_total">1</span>&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="#" target="_blank" rel="noopener noreferrer" class="search-view"></a></h3>
+<ul class="lb_toolbarlist">
+<li class="item-imgmeta-first">
+<i id="cmSign_picMsg" class="cmSign_picMsg">广告</i><a href="#" class="from" id="imgRefer" target="_blank" rel="noopener noreferrer"></a>&nbsp;|&nbsp;<a class="item_imgmeta stbtn_same" href="#" target="_blank" id="imgSize" title="更多尺寸">1x1</a>
+</li>
+</ul>
+</div>
+<div class="rel_img" id="rel_img">
+<h4><a href="#" class="stbtn_sim rel_img_more" target="_blank">更多</a>相似图片</h4>
+<div class="con_relImgList">
+<ul class="rel_img_list"></ul>
+</div>
+</div>
+<div class="relateTxtLink" id="relateMod">
+<h4>相关搜索</h4>
+<div class="container">
+<ul>
+<li><a href='/i?src=rel_view&q=%E5%AD%A9%E5%AD%90%E5%90%AC%E9%9F%B3%E4%B9%90%E5%9B%BE%E7%89%87'>孩子听音乐图片</a></li><li><a href='/i?src=rel_view&q=%E7%94%A8%E9%9F%B3%E5%93%8D%E5%90%AC%E9%9F%B3%E4%B9%90%E5%9B%BE%E7%89%87'>用音响听音乐图片</a></li><li><a href='/i?src=rel_view&q=%E5%B0%8F%E5%AD%A9%E5%90%AC%E9%9F%B3%E4%B9%90%E7%9A%84%E5%9B%BE%E7%89%87'>小孩听音乐的图片</a></li><li><a href='/i?src=rel_view&q=%E5%90%AC%E9%9F%B3%E4%B9%90%E5%8D%A1%E9%80%9A%E5%9B%BE%E7%89%87'>听音乐卡通图片</a></li><li><a href='/i?src=rel_view&q=%E7%94%A8%E6%89%8B%E6%9C%BA%E5%90%AC%E9%9F%B3%E4%B9%90%E5%9B%BE%E7%89%87'>用手机听音乐图片</a></li></ul>
+<script type="text/data"  id="relateWord">[]</script>
+</div>
+</div>
+
+<div class="relateTxtLink" id="hotQueryMod">
+<h4>热搜词</h4>
+<div class="container">
+<ul>
+<script type="text/data"  id="hotQuery">["\u5f6d\u4e3d\u5a9b","\u695a\u4e54\u4f20","\u864e\u7259","\u738b\u8005\u8363\u8000","\u58c1\u7eb8","\u8fea\u4e3d\u70ed\u5df4","\u9e7f\u6657","\u6211\u7684\u4e16\u754c","\u5934\u50cf","\u8d75\u4e3d\u9896","\u590f\u81f3\u672a\u81f3","\u9999\u6e2f\u9605\u5175","\u7ae0\u83b9\u9896","\u5efa\u515a\u8282","\u5954\u8dd1\u5427\u5144\u5f1f","\u8d5a\u94b1","\u6211\u662f\u8c01","\u7f8e\u5973","lol","\u5feb\u4e50\u5927\u672c\u8425","\u90d1\u723d","\u718a\u732b","\u60c5\u4fa3\u5934\u50cf","\u6797\u90d1\u6708\u5a25","\u6d77\u8d3c\u738b","\u706b\u5f71\u5fcd\u8005","\u5c0f\u732a\u4f69\u5947","cf","\u8dd1\u7537","\u82f1\u96c4\u8054\u76df","\u5feb\u770b\u6f2b\u753b","\u738b\u4fca\u51ef","\u9e7f\u6657\u8fea\u4e3d\u70ed\u5df4","\u6768\u6d0b","\u8303\u51b0\u51b0","\u52a8\u6f2b\u5934\u50cf","\u6797\u66f4\u65b0","\u5f20\u96e8\u7eee","\u5973\u751f\u5934\u50cf","\u9999\u6e2f\u56de\u5f5220\u5468\u5e74","\u5218\u5fb7\u534e","\u718a\u51fa\u6ca1","\u5965\u7279\u66fc","\u5fae\u5fae\u4e00\u7b11\u5f88\u503e\u57ce","\u7537\u751f\u5934\u50cf","\u6768\u5e42","\u6b22\u4e50\u98822","\u859b\u4e4b\u8c26","\u9999\u6e2f","\u6613\u70ca\u5343\u73ba","\u5434\u4ea6\u51e1","\u7231\u60c5\u516c\u5bd3","\u674e\u6c81","qq\u5934\u50cf","\u6768\u9896","\u5965\u62c9\u661f","\u8ff7\u4eba\u5c0f\u5996\u7cbe","\u4e09\u751f\u4e09\u4e16\u5341\u91cc\u6843\u82b1","\u7530\u6734\u73fa","\u5168\u804c\u9ad8\u624b","exo","\u7f8e\u5973\u56fe\u7247\u6ca1\u7a7f\u8863\u670d","\u8ff7\u4f60\u4e16\u754c","\u8721\u7b14\u5c0f\u65b0","\u5929\u5929\u5411\u4e0a","\u674e\u6613\u5cf0","\u82cd\u4e95\u7a7a","\u6df1\u591c\u98df\u5802","\u7ae0\u5b50\u6021","\u6f2b\u753b","\u5510\u5ae3","\u767d\u656c\u4ead","\u7f8e\u5973\u56fe\u7247","\u52a8\u6f2b\u58c1\u7eb8","\u5c0f\u82b1\u4ed9","\u53d8\u5f62\u91d1\u521a5","tfboys","\u6f2b\u753b\u5927\u5168","\u53d8\u5f62\u91d1\u521a","\u56fe\u7247","\u5c0f\u9a6c\u5b9d\u8389","\u97f3\u4e50","\u8d75\u672c\u5c71","\u9648\u8d6b","\u690d\u7269\u5927\u6218\u50f5\u5c38","\u767d\u9e7f\u539f","\u5f20\u827a\u5174","\u90ed\u5fb7\u7eb2","\u6c7d\u8f66","\u5f20\u5929\u7231","\u738b\u6e90","\u519b\u60c5\u89c2\u5bdf\u5ba4","\u6597\u7f57\u5927\u9646","\u72d0\u5996\u5c0f\u7ea2\u5a18","\u8521\u82f1\u6587","\u62e9\u5929\u8bb0","\u738b\u529b\u5b8f","\u9a6c\u4e91","\u540d\u4fa6\u63a2\u67ef\u5357","\u7231\u60c5\u4fdd\u536b\u6218"]</script></ul>
+</div>
+</div>
+
+
+</div>
+</div>
+</div><!-- 发送到手机 -->
+
+
+<div class="m_download" id="mDownload">
+<div class="close_box">
+<a href="#" class="btn_close" title="关闭窗口"></a>
+</div>
+<div class="qr_box">
+<h6>你可以扫描二维码 :</h6>
+<p><img src="http://p9.qhmsg.com/t011f3c43f568d1d40f.png" class="qr_img" id="qrImg">
+</p>
+</div>
+<div class="zs_box">
+<h6>也可以发送到手机 :</h6>
+<a href="#" class="btn_download" id="btnMdownload">一键发送到手机</a>
+</div>
+<div class="morelink">
+<ul>
+<li><a href="/z?ch=beauty" target="_blank">美女</a></li>
+            <li><a href="/z?ch=wallpaper" target="_blank">壁纸</a></li>
+            <li><a href="/z?ch=funny" target="_blank">搞笑</a></li>
+            <li><a href="/z?ch=go" target="_blank">旅游</a></li>
+            <li><a href="/" target="_blank">更多美图&gt;&gt;</a></li>
+</ul>
+</div>
+</div>
+
+<div class="loading" id="loading"></div>
+<div class="tips_404" id="tips404">
+<h6>404</h6>
+<p>
+很抱歉，暂时无法找到你需要的内容
+			</p>
+</div>
+
+<!-- 识图搜索条 -->
+<div class="st_box" id="stBox">
+<h3>360识图</h3>
+<a href="#" title="关闭窗口" class="btn_close"></a>
+<form enctype="multipart/form-data" method="post" action="http://st.so.com/stu" id="stForm" class="clearfix">
+<div class="st_label clearfix">
+<span>粘贴图片网址</span>
+<span class="st_help" id="stHelp"><s class="icon_help"></s>
+<div class="st_help_text" id="stHelpText">
+<s class="icon_arrow"></s>
+<h6>如何粘贴图片网址：</h6>
+<p>1. 右键点击网页上的图片，选择“复制图片网址”。</p>
+<p>2. 在搜索框中粘贴该网址( Ctrl + v )，按 enter 键或点击“识图一下”按钮。</p>
+</div>
+</span>
+<span class="line">|</span>
+<a href="javascript:;" class="btn_upload">上传图片<input type="file" name="upload" accept="image/jpeg,image/png,image/gif,image/bmp,image/webp,image/tiff" id="stUpload"></a>
+</div>
+<div class="st_input"><input type="text" placeholder="请输入图片网址或截图" id="stInput" name="imgurl" autocomplete="off"></div>
+<input type="submit" class="st_submit" value="识图一下">
+<input type="hidden" name="base64image" id="stHiddenInput">
+<input type="hidden" name="submittype" id="stType" value="imgurl">
+<input type="hidden" name="src" value="image">
+</form>
+<div class="tips_normal">提示：您也可以将图片拖至此处( Chrome浏览器还支持截图上传 )，图片不要超过2MB哦~</div>
+<div class="tips_error" id="tipsError"><s class="icon_error"></s><s class="icon_arrow"></s>不支持文字输入，请输入图片网址或截屏粘贴的图片</div>
+<div class="tips_upload" id="tipsUpload"></div>
+</div>
+<script>
+(function(){var up = new Image;up.src = "http://e.tf.360.cn/image/pv?p=mUivOYsoa5fmJ4b5qFmn5rdM8ScTcbVDyLYej0Y8FJMnrQDGESgfSEJviM2kjPRnY4IWCdQleIV%2FD177OQ9IKJIrifmWc6w%2B1UuMtYRkNyluJp2X8TxMiqlrwyM8D7NG36Z35PWToNw3K%2BzodbfB8nDNyKN6PU16xJtJXF5hx6xJWm2PjOKlA0uW9YUZFlRl8KOq6gP0Gq5Uu7pUfOePtQUH8dYLCvSpSLTq2EXJA6FSKvBX06IndSAf7DdI1J9FUj5yZIe3TFMaUzWu5DkLgnVyzZrVjOoHErSrpUQ7ZRxYLpT0Kn3yx8MkCri13%2BO0vYKVy2Phb0v3%2FFh3ziWMcaTASowbocs6NDcm9Jirxc73ZogSRk05L7yZ%2BpaeoajeFIeHeL3VoHFluiZgXHHTY5o%2BYjgZiS5xK3YqxnQNY%2Behs%2Bwhq1nqwOmoYe%2FlTfn%2BeI2BuBFiyNQM1yJHgahRIOPG0SDeBHRq2%2FMvNIWGiZ6knILEGawh0V8SeDxH2ZJBhWykaZY%2Fw6CWn8IO8F88%2Bw%3D%3D&pl=536&t=14988920987280";})();
+</script><script>
+(function(){var up = new Image;up.src = "http://e.tf.360.cn/image/pv?p=mUivOYsoa5fmJ4b5qFmn5rdM8ScTcbVDyLYej0Y8FJMnrQDGESgfSEJviM2kjPRnY4IWCdQleIV%2FD177OQ9IKJIrifmWc6w%2B1UuMtYRkNyluJp2X8TxMiqlrwyM8D7NG36Z35PWToNw3K%2BzodbfB8nDNyKN6PU16xJtJXF5hx6xJWm2PjOKlA0uW9YUZFlRl8KOq6gP0Gq5Uu7pUfOePtQUH8dYLCvSpSLTq2EXJA6FSKvBX06IndSAf7DdI1J9FUj5yZIe3TFMaUzWu5DkLgnVyzZrVjOoHErSrpUQ7ZRxYLpT0Kn3yx8MkCri13%2BO0vYKVy2Phb0v3%2FFh3ziWMcaTASowbocs6NDcm9Jirxc73ZogSRk05L5%2FRNE7RQwrEyTiwKiVK8fNluiZgXHHTY5o%2BYjgZiS5xK3YqxnQNY%2Behs%2Bwhq1nqwOmoYe%2FlTfn%2BeI2BuBFiyNQM1yJHgahRIOPG0SDeBHRq2%2FMvNIWGiZ6knILEGawh0V8SeDxH2ZJBhWykaZY%2Fw6CWn8IO8F88%2Bw%3D%3D&pl=536&t=14988920989428";})();
+</script>
+<script type="text/data" id="initParam" data-rmbid="5f17033b02229ea9a99e53684d3659bc" data-query="听音乐图片" data-cmType="outcast" data-cmDisplay=""></script>
+
+<script src="http://s8.qhres.com/static/052cfadaeeebf4da/lib/jquery.js" ></script><!-- 打点 -->
+
+<script src="http://s7.qhmsg.com/!eaab6dd4/MMPlugin.js" ></script>
+<script src="http://s2.qhmsg.com/!828b1db8/monitor.js" ></script><!-- suggest -->
+
+<script src="http://s0.qhmsg.com/static/8fd8b4eea6505b38.js" ></script>
+<script src="http://image.so.com/api/hotsuggest.js" ></script>
+<script src="http://js.passport.qihucdn.com/5.0.3.js" ></script>
+
+<script src="http://s8.qhres.com/static/eefeaf015a034ed3/search/view.js" ></script>
+</body>
+</html>

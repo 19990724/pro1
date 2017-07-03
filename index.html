@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <meta name="viewport" content="width=device-width,
+    initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <script type="text/javascript" src="js/fontsize.js"></script>
+</head>
+<body>
+<div class="da">
+    <div class="transtion_my">
+        <h4>个人简介</h4>
+        <h5>大家好！！</h5>
+        <p class="xing">姓名:张泽政</p>
+        <p class="sr">生日:1999.07.24</p>
+        <p class="lai">年龄:18周岁</p>
+        <p class="lai_2">来自河北省唐山市!</p>
+        <audio src="video/wangmian.mp3" autoplay id="audio_my" loop></audio>
+    </div>
+    <div class="transtion_my down">
+        <h4>爱好</h4>
+        <p class="ai">我的爱好是篮球，听歌,羽毛球</p>
+        <img src="images/lanqiu.jpg" class="img_a">
+        <img src="images/ttty.jpg" class="img_b">
+        <img src="images/yumaoq.jpg" class="img_c">
+    </div>
+    <div class="transtion_my down">
+        <h5>我的作品</h5>
+
+        <p class="zp">我的专业技能 html,css,jquery</p>
+        <img src="images/1.png" class="img_d">
+        <img src="images/pcyulantu.png" class="img_e">
+        <img src="images/yunba.png" class="img_f">
+    </div>
+    <div class="transtion_my down">
+        <h3>自我评价</h3>
+
+        <p class="ping">
+            我是一个快要毕业的大学生通过四年的大学生活，我成长了很多。在即将毕业之时，我对自己这四年来的收获和感受作一个小结，并以此为我今后行动的指南。本人沉着稳重，性格外向,学习能力强有较强的组织能力。能熟练运用html
+            css jquery，
+            ,在校学习刻苦，做事细心稳重，助人为乐，
+            希望毕业以后能有一份好的工作岗位，
+        </p>
+    </div>
+    <div class="transtion_my down">
+        <img src="images/xiexieb.gif" class="xiexie">
+        <img src="images/002.jpg" class="zuo">
+        <p class="lianxi">联系方式！</p>
+        <img src="images/erweima.jpg" class="erweima">
+        <p class="xie">QQ:583733863</p>
+        <p class="tel">Tel：18830523731</p>
+    </div>
+    <img src="images/music.png" class="music music_ani">
+</div>
+</body>
+<script src="js/zepto.min.js"></script>
+<script src="js/touch.js"></script>
+<script>
+    /*音乐图标点击事件*/
+    $(".da .music").tap(function () {
+        if (document.querySelector("#audio_my").paused == true) {
+            document.querySelector("#audio_my").play();
+            $(".music").addClass("music_ani");
+        }
+        else {
+            document.querySelector("#audio_my").pause();
+            $(".music").removeClass("music_ani");
+        }
+    });
+    //    手指滑动
+    var curpage = 0;
+    $(".da>div").eq(0).siblings().children().addClass("yin");
+    //    $(".da>div>div").eq(0).siblings().children().addClass("yin");
+    $(".da").swipeUp(function () {
+        if (curpage < 4) {
+            $(".da>div").eq(curpage).addClass("up");
+            $(".da>div").eq(curpage).children().addClass("yin");
+            curpage++;
+            $(".da>div").eq(curpage).children().removeClass("yin");
+            $(".da>div").eq(curpage).removeClass("down");
+        }
+    });
+    $(".da").swipeDown(function () {
+        if (curpage > 0) {
+            $(".da>div").eq(curpage).addClass("down");
+            $(".da>div").eq(curpage).children().addClass("yin");
+            curpage--;
+            $(".da>div").eq(curpage).children().removeClass("yin");
+            $(".da>div").eq(curpage).removeClass("up");
+        }
+    });
+
+</script>
+</html>
